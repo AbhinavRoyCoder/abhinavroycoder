@@ -17,8 +17,6 @@
 <br>
 
 <p align = "left">
-<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
-
 
 **Talking about Technical Stuffs:**
 
@@ -46,8 +44,8 @@
   
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav019&theme=react&layout=compact" width="400px" alt="Language stats image" -->
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav019&theme=react&hide_border=true" />
- <br>
+<h3>Activity Graph:</h3>
+<!-- <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinav019&theme=react&hide_border=true" /> -->
 <img src="https://github-profile-trophy.vercel.app/?username=abhinav019&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="abhinav019" width=200% height=100%/>
 <hr>
 <br>
@@ -56,10 +54,7 @@
   <tr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinav019&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
-</table>
-<h3>GitHub | Dependencies: </h3>
-<Br>
- <hr>
+
  
 <h3>Languages and Tools: </h3>
 
@@ -91,7 +86,7 @@
 
 <hr>
   
-
+<!-------
 <p align="center">
   <h3> INDIA </h3>
 </p>
@@ -100,6 +95,7 @@
 <br>
 <br>
 <br>
+-------->
 
   
 ### ✍️ Random Dev Quote
