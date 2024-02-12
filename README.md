@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am currently a Third Year student at VIT Vellore pursuing my B.Tech CSE(2nd Year) .Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">I am currently a Third Year student at VIT Vellore pursuing my B.Tech CSE. Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>
 <p align="center"><b>Profile Views</b></p>
